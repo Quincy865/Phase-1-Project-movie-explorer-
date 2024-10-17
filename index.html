@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Explorer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Movie Explorer</h1>
+
+    <div class="search-container">
+        <input type="text" id="search-input" placeholder="Search for a movie...">
+        <button id="search-btn">Search</button>
+    </div>
+
+    <div class="filter-container">
+        <label for="rating-filter">Filter by Rating:</label>
+        <select id="rating-filter">
+            <option value="0">All Ratings</option>
+            <option value="5">5+</option>
+            <option value="7">7+</option>
+            <option value="8">8+</option>
+        </select>
+    </div>
+
+    <div id="watch-list-container">
+        <h2>My Watch List</h2>
+        <ul id="watch-list"></ul>
+    </div>
+
+    <div id="movie-list"></div>
+    <div id="nairobi-time">
+     Time in Nairobi: <span id="time"></span>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>

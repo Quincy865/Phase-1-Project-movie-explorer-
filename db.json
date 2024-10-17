@@ -1,0 +1,197 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Everything Everywhere All at Once",
+      "description": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save the world by exploring other universes.",
+      "release_year": 2022,
+      "vote_average": 8,
+      "poster_path": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcR_Bv_oeWxTEbzLEOylf74v0MoDq9jSLW0W3HdC4NoX_ie1J4VA&psig=AOvVaw3Ujn3_M8cIH-ZZjifgFWQK&ust=1728984465642000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCKipnHjYkDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": "2",
+      "title": "The Batman",
+      "description": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing the serial killer known as The Riddler.",
+      "release_year": 2022,
+      "vote_average": 7.9,
+      "poster_path": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSUOpwFVoR5xgrQX0AqB__TnzrmPtDbk9l30LJt78ih0wvfo-CW&psig=AOvVaw2S1uIWSy_36YY-i22HUGMb&ust=1728984572605000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPil3cvHjYkDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": "3",
+      "title": "Top Gun: Maverick",
+      "description": "After more than thirty years of service as one of the Navy's top aviators, Pete 'Maverick' Mitchell is where he belongs, pushing the envelope as a courageous test pilot.",
+      "release_year": 2022,
+      "vote_average": 8.3,
+      "poster_path": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn2.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcTb0I81g39NGDx0sKP5F_DECCsdzoOwh9MVUD0PLSVvQpf3rpIM&psig=AOvVaw33dWwV-KA4eSFcimMZSf4P&ust=1728984607214000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiBgtzHjYkDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": "4",
+      "title": "Oppenheimer",
+      "description": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+      "release_year": 2023,
+      "vote_average": 8.4,
+      "poster_path": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSlSl-4uIoqKTnBCjBg9JrlfugzGV5liiutT8vX3gWckjbRK_Lk&psig=AOvVaw3t9-ua0R8ptEIKUcImd-gx&ust=1728984633785000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCm4ejHjYkDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": "5",
+      "title": "Barbie",
+      "description": "To live in Barbie Land is to be a perfect being in a perfect place. Unless you have a full-on existential crisis.",
+      "release_year": 2023,
+      "vote_average": 7,
+      "poster_path": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTm1KKVKsy30WTc8cyvjfgc7Tyw5d6VEn5sFh1Zs5BqJbtH1uS"
+    },
+    {
+      "id": "6",
+      "title": "Killers of the Flower Moon",
+      "description": "In 1920s Oklahoma, the Osage Nation became the richest people per capita in the world after oil was discovered beneath their land.",
+      "release_year": 2023,
+      "vote_average": 8.5,
+      "poster_path": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcR1IZPJZTL1tKD_-frnk1QWinwnWbhQp-Ls0Ws4fLVRvYyiDlIE&psig=AOvVaw0zIV0fC6XYIXQomJCgqwJC&ust=1728984894389000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCT_-TIjYkDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": "7",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "description": "Miles Morales catapults across the Multiverse, where he encounters a team of spider people charged with protecting its very existence.",
+      "release_year": 2023,
+      "vote_average": 8.9,
+      "poster_path": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcT0MiAFRF0oxZO8nwPESVBei050PmIs6_46y9pPRkfWS59pFJpi&psig=AOvVaw3reSsHl_v1Hhl-a254HgrM&ust=1728984919892000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCum_HIjYkDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": "8",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "description": "The Guardians must fight to protect the universe and the friends they love from new threats.",
+      "release_year": 2023,
+      "vote_average": 8.1,
+      "poster_path": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcTrf_8cqTutiZlmVF3tpv8uOWWRsOgqzNIZCYdq_dVPtEKJKwPL&psig=AOvVaw1QTjz6VWQu0DevYtm7y8n8&ust=1728984939045000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCAufrIjYkDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": "9",
+      "title": "John Wick: Chapter 4",
+      "description": "John Wick uncovers a path to defeating the High Table, but before he can earn his freedom, he must face a new enemy with powerful alliances across the globe.",
+      "release_year": 2023,
+      "vote_average": 7.9,
+      "poster_path": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn1.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcS-ES3DHAOhlf9wJZwUEY1Xjm_W7DuMPaxl_8NiMKLOvwEuP5Al&psig=AOvVaw1uj204dJ1RcdptaPlROPwC&ust=1728984957190000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCZ7ILJjYkDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": "10",
+      "title": "Dune: Part Two",
+      "description": "Paul Atreides unites with Chani and the Fremen while seeking revenge against those who destroyed his family.",
+      "release_year": 2024,
+      "vote_average": 8.4,
+      "poster_path": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNgijMfbbgqI-PDhoPa4bo64fp90yrboBdgMHbcW9fg05sv4Zx"
+    },
+    {
+      "id": "11",
+      "title": "Mission: Impossible – Dead Reckoning Part One",
+      "description": "Ethan Hunt and his IMF team must track down a dangerous weapon before it falls into the wrong hands.",
+      "release_year": 2023,
+      "vote_average": 7.8,
+      "poster_path": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR34_otMSvSpe1Nn8Iip4kpkcaAHrUGaIITwQYC9iRIL4q34rHhTY2cTYrbRe303iD5fdsm"
+    },
+    {
+      "id": "12",
+      "title": "The Marvels",
+      "description": "Carol Danvers, Monica Rambeau, and Kamala Khan unite as the Marvels.",
+      "release_year": 2023,
+      "vote_average": 6.5,
+      "poster_path": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFR6mH9YM72sb456o7jrEcSDP5vLJ8Isst6HasyWRWInFnFajP"
+    },
+    {
+      "id": "13",
+      "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
+      "description": "Years before he would become the tyrannical president of Panem, young Coriolanus Snow is tasked with mentoring a female tribute from District 12.",
+      "release_year": 2023,
+      "vote_average": 8.5,
+      "poster_path": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVw5TbBto0N605-BV1qfu7c8jdA1K_YL5cYTUfXzMl9_lV6q01"
+    },
+    {
+      "id": "14",
+      "title": "Transformers: Rise of the Beasts",
+      "description": "The Maximals join the Autobots as they face a new threat.",
+      "release_year": 2023,
+      "vote_average": 7.1,
+      "poster_path": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRThdMTT0zp6gjCY7OQjnyBs4WzkdmDDWuN97Fv7vhO7UtDbPlZ"
+    },
+    {
+      "id": "15",
+      "title": "Aquaman and the Lost Kingdom",
+      "description": "Arthur Curry must forge an uneasy alliance with an unlikely ally to protect his kingdom from a powerful force.",
+      "release_year": 2023,
+      "vote_average": 7,
+      "poster_path": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSt7q2htmzbN6A8eCZ2yypgJlBVwoUdERfk157-s_KdMWMlYOHC0dKUmAoCnUE8FAJg8HTz"
+    },
+    {
+      "id": "16",
+      "title": "Despicable Me 4",
+      "description": "Gru and his family face new challenges while navigating their chaotic life as villains-turned-heroes.",
+      "release_year": 2024,
+      "vote_average": 7.4,
+      "poster_path": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSb6Ot56a_bcafaItwxSiH5B181Eak9vdzfLcKKnuqUJN72PB2--N578VnDVe_-Te-KXsIc"
+    },
+    {
+      "id": "17",
+      "title": "Kung Fu Panda 4",
+      "description": "Po embarks on a new adventure to find a successor as he faces his most formidable enemies yet.",
+      "release_year": 2024,
+      "vote_average": 8,
+      "poster_path": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/kung-fu-panda-4/images/regions/us/onesheet.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Wish",
+      "description": "A young girl who wishes on a star to save her family from a dark threat discovers the truth about her powers and her purpose.",
+      "release_year": 2023,
+      "vote_average": 7.5,
+      "poster_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMxIKI3HBpaGS6W5mIuJFKyZXumTeLQLBBy4CWNKnOGyRcCyXC"
+    },
+    {
+      "id": "19",
+      "title": "Nimona",
+      "description": "A young shapeshifter teams up with a knight accused of a crime he didn't commit, in a futuristic medieval world.",
+      "release_year": 2023,
+      "vote_average": 8.3,
+      "poster_path": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGPx3jCuFDY5nuGjhOM6uQNB9gJMCiCVQC5EydAAJhnUAiGLvVzIEACKMRa6aIe_VQmaRo"
+    },
+    {
+      "id": "20",
+      "title": "The Super Mario Bros. Movie",
+      "description": "Join Mario on a journey through the Mushroom Kingdom as he faces off against Bowser to save Princess Peach.",
+      "release_year": 2023,
+      "vote_average": 7,
+      "poster_path": "https://upload.wikimedia.org/wikipedia/en/4/44/The_Super_Mario_Bros._Movie_poster.jpg"
+    },
+    {
+      "id": "21",
+      "title": "Meg 2: The Trench",
+      "description": "A research team encounters terrifying prehistoric creatures while exploring the Mariana Trench.",
+      "release_year": 2023,
+      "vote_average": 4.1,
+      "poster_path": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMnMLOYARaIAuDNAejIcbXu3bWNcUyWKj87Pvh1XLooioIiRro"
+    },
+    {
+      "id": "22",
+      "title": "Red, White & Royal Blue",
+      "description": "The son of the US president falls in love with the Prince of Wales.",
+      "release_year": 2023,
+      "vote_average": 4.7,
+      "poster_path": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMTCZDpLeL4yYNP3jSRL9VbVj1dRN8q1gvnyqIU99VvEVfIvr8"
+    },
+    {
+      "id": "23",
+      "title": "The Flash",
+      "description": "Barry Allen uses his super-speed to change the past, but his actions have consequences.",
+      "release_year": 2023,
+      "vote_average": 4.5,
+      "poster_path": "https://upload.wikimedia.org/wikipedia/en/e/ed/The_Flash_%28film%29_poster.jpg"
+    },
+    {
+      "id": "24",
+      "title": "The Nun II",
+      "description": "A priest investigates a series of supernatural incidents involving a demon nun.",
+      "release_year": 2023,
+      "vote_average": 4,
+      "poster_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAaCuKES40RJ1WrMKD6R6t4GPF6KPKMtX5I4ZAEo9pU3IHEsOg"
+    }
+  ],
+  "watchlist": []
+}
